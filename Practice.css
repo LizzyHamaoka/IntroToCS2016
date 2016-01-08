@@ -1,0 +1,21 @@
+h1 {
+	color: #000000;
+}
+table{
+	color: white;
+}
+body{
+	background-image: url(http://pixel.brit.co/wp-content/uploads/2014/10/MiniPinatas.jpg);
+	background-size: 100% 100%;
+	font-family: Georgia;
+}	
+ul{
+	font-color:#FFFFFF;
+}
+
+#coolthings{
+	font-size: 36pt;
+}
+.firsth1{
+	font-family: "Monospace"
+}
